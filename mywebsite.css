@@ -1,0 +1,25 @@
+.myname {
+    font-style: initial;
+}
+.heart { color: red;
+
+}
+.line2 {color: red; background-color: red}
+.span {
+    color: gold;
+}
+.star {
+    color: gold;
+}
+
+.container {
+    display: flex; 
+
+}
+img {
+    border-radius: 30%;
+    
+}
+.left-div {
+    padding: 2%;
+}
